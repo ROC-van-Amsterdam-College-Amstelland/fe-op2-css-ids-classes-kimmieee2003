@@ -11,5 +11,23 @@ body{
 img{
     width: 200px;
 }
+
+header, main, footer{
+    width: 100%;
+}
+
+header, footer{
+    height: 20%;
+    background-color: gray;
+}
+
+main{
+    height: 80%;
+    background-color: aqua;
+}
+
+nav img{
+    margin: 20px;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
