@@ -18,16 +18,60 @@ header, main, footer{
 
 header, footer{
     height: 20%;
-    background-color: gray;
+    background-color:lightpink;
 }
 
 main{
     height: 80%;
-    background-color: aqua;
+    background-color:plum;
 }
 
-nav img{
+#logo1{
     margin: 20px;
+}
+
+main img{
+    width: 400px;
+}
+
+footer img{
+    border: 1px solid black;
+}
+
+.class1{
+    display: flex;
+}
+
+#ul1{
+    padding-left: 20px;
+    nav a text-decoration: none;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+main h1{
+    font-size: 50 px;
+    background-color: blanchedalmond;
+}
+
+ul li{
+    border: 1px dashed black;
+}
+
+h3 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img + ul li{
+    list-style: circle;
+    color: coral;
+
 }
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
