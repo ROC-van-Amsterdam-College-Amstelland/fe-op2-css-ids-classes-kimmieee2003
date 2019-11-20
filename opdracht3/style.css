@@ -1,2 +1,9 @@
+header nav ul{
+    list-style: circle;
+}
 
+footer nav ul{
+    list-style-type: none;
+    font-size: larger;
+}
 
